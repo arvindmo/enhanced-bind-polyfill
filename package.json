@@ -1,0 +1,19 @@
+{
+  "name": "enhanced-bind-polyfill",
+  "version": "0.0.1",
+  "description": "An enhanced Function.prototype.bind polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roperzh/enhanced-bind-polyfill.git"
+  },
+  "keywords": [
+    "polyfill",
+    "bind"
+  ],
+  "author": "Roberto Dip",
+  "license": "MIT"
+}
