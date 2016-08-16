@@ -10,7 +10,7 @@ All credits to [@jacomyal](https://github.com/jacomyal)
 ## Install it
 
 ```shell
-$ npm install bindpolyfill
+$ npm install enhanced-bind-polyfill
 ```
 
 ## Use it
