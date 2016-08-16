@@ -1,6 +1,6 @@
 {
   "name": "enhanced-bind-polyfill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An enhanced Function.prototype.bind polyfill",
   "main": "index.js",
   "scripts": {
